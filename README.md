@@ -1,1 +1,1 @@
-# Theoretic-Probability
+Course materials for Measure Theoretic Probability. Covers sample spaces, fields, σ-fields, Borel sets, extension/uniqueness theorems, independence, zero-one laws, random variables as measurable functions, Product Spaces, modes of convergence (almost sure and in probability), and foundation of expectation via integration theory.
